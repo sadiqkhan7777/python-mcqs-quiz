@@ -64,4 +64,4 @@ source .venv/bin/activate
 streamlit run main.py
 ```
 
-🎉 That’s it! Your Money Making Machine is ready to use 🚀
+🎉 That’s it! Your Python MCQs Application is ready to use 🚀
